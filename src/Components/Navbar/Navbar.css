@@ -1,0 +1,25 @@
+.ola1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.7rem;
+    font-weight: 700;
+    padding-left: 5px;
+}
+
+.ola ul {
+    
+    display: flex;
+    list-style: none;
+}
+h3{
+    padding-left: 50px;
+    margin-right: 100px;
+    font-family: sans-serif;
+    font-size: 35px;
+}
+li{
+    padding-top: 50px;
+    padding-left: 120px;
+    margin-right: 10px;
+    font-family: sans-serif;
+    font-size: 20px;
+}

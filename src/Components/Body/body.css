@@ -1,0 +1,22 @@
+.bod{
+    display: block;
+    margin-top: 8rem;
+    width: 100%;
+    margin-left: 30%;
+}
+h1{
+    font-size: 100px;
+}
+.bod1{
+    font-size: 24px;
+}
+.bod button{
+    padding: 15px;
+    background-color: black;
+    border-radius: 15px;
+    color: white;
+    width: 180px;
+    font-size: 20px;
+
+
+}
